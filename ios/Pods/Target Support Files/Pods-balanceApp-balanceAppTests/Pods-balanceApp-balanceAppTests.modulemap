@@ -1,0 +1,6 @@
+module Pods_balanceApp_balanceAppTests {
+  umbrella header "Pods-balanceApp-balanceAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
